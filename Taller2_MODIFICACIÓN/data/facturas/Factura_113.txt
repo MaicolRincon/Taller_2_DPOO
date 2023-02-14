@@ -1,0 +1,22 @@
+
+Factura N° 113
+________________________________________________________________
+       Nombre Cliente: ma
+       Dirección: 1
+________________________________________________________________
+Productos adquiridos:
+
+ --- Combos ----
+combo corral     Calorias: 141.0
+combo corral queso     Calorias: 154.0
+
+ --- Ingredientes Adicionales ----
+suero costeño    Calorias: 4
+
+________________________________________________________________
+
+                                      Precio Neto: 48900.0
+                                       Precio IVA: 9291.0
+----------------------------------------------------------------
+                                     Precio Total: 58191.0
+                                     Calorias Totales: 299

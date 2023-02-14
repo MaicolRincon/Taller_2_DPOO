@@ -1,0 +1,23 @@
+
+Factura N° 111
+________________________________________________________________
+       Nombre Cliente: ma
+       Dirección: a
+________________________________________________________________
+Productos adquiridos:
+
+ --- Combos ----
+combo corral     Calorias: 141.0
+
+ --- Productos ----
+wrap de pollo   Calorias: 33
+
+ --- Bebidas ----
+agua cristal sin gas    Calorias: 10
+
+________________________________________________________________
+
+                                      Precio Neto: 42050.0
+                                       Precio IVA: 7989.5
+----------------------------------------------------------------
+                                     Precio Total: 50039.5
